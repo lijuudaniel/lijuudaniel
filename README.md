@@ -1,21 +1,50 @@
 <h1 align="center">Hi 👋, I'm Liju Daniel</h1>
-<h3 align="center">Computer Science Student with passion for Web and UI Design. A Crazy Smartphone Lover.</h3>
+<h3 align="center">Computer Science Graduate • Tech Explorer • Smartphone Geek • Wrestling Fan • Curious Mind</h3>
 
-- 🌱 I’m currently learning **Java, Python, Blockchain, Network Hacking**
+🌟 I’m someone who loves turning ideas into real, working things — whether it’s a website, a dashboard, or a late-night experiment.  
+I believe in mastering the basics, thinking differently, and solving problems with patience and creativity.
 
-- 👨‍💻 All of my projects are available at [lijuudaniel.github.io/website/](lijuudaniel.github.io/website/)
+---
 
-- 💬 Ask me about **Smartphones and related stuff.**
+### 🚀 About Me
 
-- 📫 How to reach me **lijuudaniel@gmail.com**
+- 🔭 I build websites, dashboards, and small experimental projects  
+- 🌱 Currently learning more about **AI, RAG, FastAPI, MCP, and modern web workflows**  
+- 🧠 I enjoy **terminal-style UI**, clean interfaces, and problem-solving  
+- 💬 Ask me about **smartphones, tech, pro-wrestling, or cricket**  
+- ✍️ I also write on Medium: **health, tech, cricket, and life**  
+- 📫 Reach me at **lijuudaniel@gmail.com**  
+- 🌐 My website: **lijuudaniel.github.io/website/**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/lijuudaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lijuudaniel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lijuudaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lijuudaniel" height="30" width="40" /></a>
-<a href="https://instagram.com/lijuudaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lijuudaniel" height="30" width="40" /></a>
+<a href="https://twitter.com/lijuudaniel" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/lijuudaniel" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/lijuudaniel" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+### ⚡ Fun Facts
+
+- 🏏 Cricket keeps the chaos fun  
+- 🤼 Pro Wrestling keeps the storytelling wild  
+- 🎧 Music keeps me sane  
+- 💻 Vibe Coding — where I think it, and the code (hopefully) listens  
+- 🍜 Food… because good food fixes bad days  
+- 📱 And yes — I’m a *crazy smartphone lover*
+
+---
+
+Thanks for stopping by! ✨  
