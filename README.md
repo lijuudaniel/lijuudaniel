@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liju Daniel</h1>
-<h3 align="center">Computer Science Graduate • Tech Explorer • Smartphone Geek • Wrestling Fan • Curious Mind</h3>
+<h3 align="center">Computer Science Graduate • Tech Explorer • Smartphone Geek</h3>
 
 🌟 I’m someone who loves turning ideas into real, working things — whether it’s a website, a dashboard, or a late-night experiment.  
 I believe in mastering the basics, thinking differently, and solving problems with patience and creativity.
@@ -9,7 +9,6 @@ I believe in mastering the basics, thinking differently, and solving problems wi
 ### 🚀 About Me
 
 - 🔭 I build websites, dashboards, and small experimental projects  
-- 🌱 Currently learning more about **AI, RAG, FastAPI, MCP, and modern web workflows**  
 - 🧠 I enjoy **terminal-style UI**, clean interfaces, and problem-solving  
 - 💬 Ask me about **smartphones, tech, pro-wrestling, or cricket**  
 - ✍️ I also write on Medium: **health, tech, cricket, and life**  
